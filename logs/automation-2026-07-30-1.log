@@ -1,0 +1,43 @@
+ 13:28:16.525 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting  TC001_AccountRegistrationTest ****
+13:28:16.712 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on My account ****
+13:28:17.125 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on Register ****
+13:28:17.125 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Providing Customer Details  ****
+13:28:18.820 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Validating Message ****
+13:28:18.863 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Completed  TC001_AccountRegistrationTest ****
+13:50:01.618 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting  TC001_AccountRegistrationTest ****
+13:50:01.757 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on My account ****
+13:50:02.254 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on Register ****
+13:50:02.257 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Providing Customer Details  ****
+13:50:06.249 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Validating Message ****
+13:50:06.295 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Completed  TC001_AccountRegistrationTest ****
+13:55:28.475 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting  TC001_AccountRegistrationTest ****
+13:55:28.628 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on My account ****
+13:55:29.049 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on Register ****
+13:55:29.052 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Providing Customer Details  ****
+13:55:39.323 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-emailfg']"}
+  (Session info: chrome=150.0.7871.187)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7dd64eaab94aeba1ad128ec09a95f69f, findElement {value=//input[@id='input-emailfg'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.187, chrome: {chromedriverVersion: 150.0.7871.124 (9261fd0a595..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49368}, goog:processID: 21728, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49368/devtoo..., se:cdpVersion: 150.0.7871.187, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7dd64eaab94aeba1ad128ec09a95f69f
+14:00:33.190 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting  TC001_AccountRegistrationTest ****
+14:00:33.328 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on My account ****
+14:00:33.738 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on Register ****
+14:00:33.742 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Providing Customer Details  ****
+14:00:35.710 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Validating Message ****
+14:01:45.718 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting  TC001_AccountRegistrationTest ****
+14:01:45.852 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on My account ****
+14:01:46.194 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Clicked on Register ****
+14:01:46.199 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Providing Customer Details  ****
+14:01:56.966 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Continue12']"}
+  (Session info: chrome=150.0.7871.187)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [56ed0b0009cc838373d30bf5be5ed913, findElement {using=xpath, value=//input[@value='Continue12']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.187, chrome: {chromedriverVersion: 150.0.7871.124 (9261fd0a595..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61432}, goog:processID: 8020, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61432/devtoo..., se:cdpVersion: 150.0.7871.187, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56ed0b0009cc838373d30bf5be5ed913
